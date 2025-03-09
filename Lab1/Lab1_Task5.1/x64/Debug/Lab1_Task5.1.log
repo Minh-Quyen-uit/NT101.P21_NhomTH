@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\code\C++\NT101\Lab1\Lab1_Task5.1\Source.cpp(43,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\C++\NT101\Lab1\Lab1_Task5.1\Source.cpp(47,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab1_Task5.1.vcxproj -> D:\code\C++\NT101\Lab1\Lab1_ATMMT\x64\Debug\Lab1_Task5.1.exe

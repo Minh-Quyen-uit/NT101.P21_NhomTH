@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\code\C++\NT101\Lab1\Lab1_ATMMT\Source.cpp(40,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab1_ATMMT.vcxproj -> D:\code\C++\NT101\Lab1\Lab1_ATMMT\x64\Debug\Lab1_Task2.1.exe
